@@ -89,11 +89,12 @@ http://localhost:8080
 
 ## Screenshots
 
-<img width="1920" height="1020" alt="Screenshot" src="https://github.com/user-attachments/assets/a6f9d831-967d-4de2-9e93-6d238ed5101e" />
+<img width="1251" height="669" alt="1" src="https://github.com/user-attachments/assets/0fe9ec7e-540c-4af2-b020-66e8b457a638" />
 
-<img width="1920" height="968" alt="Screenshot" src="https://github.com/user-attachments/assets/6b6623ec-a66b-446d-b9fe-4e56058162b8" />
+<img width="1845" height="911" alt="2" src="https://github.com/user-attachments/assets/086bcdfe-a7e0-4d09-aec2-0e3b4427c6ac" />
 
-<img width="1920" height="1017" alt="Screenshot" src="https://github.com/user-attachments/assets/89d79a05-44b5-49fe-bd94-0a3d127382fc" />
+<img width="1920" height="924" alt="3" src="https://github.com/user-attachments/assets/7434761f-a6cc-4bd3-bb82-8e306c6ba4e2" />
+
 
 ---
 
@@ -102,6 +103,7 @@ http://localhost:8080
 SoniG07
 
 ---
+
 
 
 
